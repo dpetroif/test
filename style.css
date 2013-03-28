@@ -1,0 +1,5 @@
+#rightp{ width:749px; height:560px; border:1px solid; position: absolute; }
+#rightp div{ width:178px; height:170px; background-color:#333333; position: absolute; border-radius: 7px 2px; }
+#rightp div>p{padding: 5px; margin: 0; text-align: center; color: white;}
+#rightp div>img{margin: 5px 9px;}
+#rightp div:hover{ background-color: #6F6F6F; border: 1px solid #1E1E1E; }
